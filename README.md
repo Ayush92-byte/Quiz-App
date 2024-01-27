@@ -8,3 +8,5 @@ This repository contains the source code for a Quiz App, designed to provide use
 # Technologies Used
 - XML layouts for UI design
 - Kotlin for logic implementation
+# Deployed URL : 
+- Quiz App : [View App](https://drive.google.com/file/d/1wKX3MXfJ-6ff83Nah6zWct8jDCg68HrD/view?usp=drive_link)
